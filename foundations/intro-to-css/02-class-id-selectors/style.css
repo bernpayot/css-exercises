@@ -1,0 +1,19 @@
+.class {
+    background-color: #ffc0cb;
+    font-family: verdana, tahoma, sans-serif; 
+}
+
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.edit {
+    font-size: 24px;
+}
